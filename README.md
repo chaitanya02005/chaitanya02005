@@ -7,7 +7,7 @@ My work combines software engineering, artificial intelligence, and cybersecurit
 I believe technology should do more than work—it should inspire confidence, create value, and make complex tasks simpler.
 
 ## Focus Areas
-⚙️ Full-Stack Development
+⚙️ Full-Stack Development<br>
 🧠 Artificial Intelligence
 
 ## Tech Stack
