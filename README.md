@@ -10,9 +10,6 @@ I believe technology should do more than work—it should inspire confidence, cr
 ⚙️ Full-Stack Development<br>
 🧠 Artificial Intelligence
 
-## Tech Stack
-Python • JavaScript • React • Django • Node.js • MySQL • MongoDB • Git
-
 ## Beyond Code
 I am constantly learning, contributing to projects, exploring emerging technologies, and refining my engineering mindset through hands-on development and problem solving.
 
