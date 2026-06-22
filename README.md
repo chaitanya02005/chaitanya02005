@@ -1,51 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kandula Krishna Chaitanya Reddy</h1>
-<h3 align="center">Full Stack Developer</h3>
+# 💫 About Me:
+🔭 I’m currently working on AI-powered security and web development projects<br>👯 I’m looking to collaborate on AI, Machine Learning, Full-Stack Development, and Open Source Projects<br>🤝 I’m looking for help with Advanced AI Security, Cloud Technologies, and System Design<br>🌱 I’m currently learning Generative AI, Machine Learning, React, Node.js, and Full-Stack Development<br>💬 Ask me about Python, Web Development, AI Security, Git, GitHub, and Problem Solving<br>⚡ Fun fact: I enjoy building projects that combine AI with real-world problem solving and continuously exploring new technologies.
 
-<p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/chaitanya02005)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/www.linkedin.com/in/chaitanya02005)
-</p>
 
-<hr/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chaitanya02005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanya02005@gmail.com) 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chaitanya02005&color=11d452&style=for-the-badge" alt="Visitor Badge" />
-</p>
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-102216?style=for-the-badge&logo=react&logoColor=11d452" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-102216?style=for-the-badge&logo=html5&logoColor=11d452" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-102216?style=for-the-badge&logo=javascript&logoColor=11d452" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-102216?style=for-the-badge&logo=java&logoColor=11d452" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-102216?style=for-the-badge&logo=c&logoColor=11d452" alt="C"/>
-  <img src="https://img.shields.io/badge/Node.js-102216?style=for-the-badge&logo=nodedotjs&logoColor=11d452" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Django-102216?style=for-the-badge&logo=django&logoColor=11d452" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-102216?style=for-the-badge&logo=fastapi&logoColor=11d452" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/MySQL-102216?style=for-the-badge&logo=mysql&logoColor=11d452" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-102216?style=for-the-badge&logo=mongodb&logoColor=11d452" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Netlify-102216?style=for-the-badge&logo=netlify&logoColor=11d452" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Vercel-102216?style=for-the-badge&logo=vercel&logoColor=11d452" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Git-102216?style=for-the-badge&logo=git&logoColor=11d452" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Notion-102216?style=for-the-badge&logo=notion&logoColor=11d452" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Pandas-102216?style=for-the-badge&logo=pandas&logoColor=11d452" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-102216?style=for-the-badge&logo=numpy&logoColor=11d452" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-102216?style=for-the-badge&logo=jupyter&logoColor=11d452" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Ollama-102216?style=for-the-badge&logo=ollama&logoColor=11d452" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/PyTorch-102216?style=for-the-badge&logo=pytorch&logoColor=11d452" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-102216?style=for-the-badge&logo=tensorflow&logoColor=11d452" alt="TensorFlow"/>
-</p>
-
-## 📊 GitHub Analytics
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chaitanya02005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaitanya02005&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya02005&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanya02005&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=chaitanya02005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=chaitanya02005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chaitanya02005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-Built with [GPRM](https://gprm.bhalli.dev)
+[![](https://komarev.com/ghpvc/?username=chaitanya02005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
