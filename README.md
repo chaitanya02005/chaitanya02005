@@ -1,7 +1,25 @@
 <h1 align="center">Hi 👋, I'm Kandula Krishna Chaitanya Reddy</h1>
 # 💫 About Me:<br>
-🔭 I’m currently working on AI-powered security and web development projects<br>👯 I’m looking to collaborate on AI, Machine Learning, Full-Stack Development, and Open Source Projects<br>🤝 I’m looking for help with Advanced AI Security, Cloud Technologies<br>🌱 I’m currently learning Generative AI, Machine Learning, React, Node.js, and Full-Stack Development<br>💬 Ask me about Python, Web Development, AI Security, Git, GitHub, and Problem Solving<br>⚡ Fun fact: I enjoy building projects that combine AI with real-world problem solving and continuously exploring new technologies.
+I am a developer passionate about creating software that solves meaningful problems.
 
+My work combines software engineering, artificial intelligence, and cybersecurity to build systems that are reliable, scalable, and secure. Whether it's developing full-stack applications, designing intelligent workflows, or implementing security-first solutions, I enjoy turning challenging ideas into real-world products.
+
+I believe technology should do more than work—it should inspire confidence, create value, and make complex tasks simpler.
+
+## Focus Areas
+⚙️ Full-Stack Development
+🧠 Artificial Intelligence
+
+## Tech Stack
+Python • JavaScript • React • Django • Node.js • MySQL • MongoDB • Git
+
+## Beyond Code
+I am constantly learning, contributing to projects, exploring emerging technologies, and refining my engineering mindset through hands-on development and problem solving.
+
+### Vision
+To build innovative and secure technology that makes a lasting impact.
+
+_"Every project is an opportunity to learn, improve, and create something meaningful."_
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chaitanya02005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanya02005@gmail.com) 
