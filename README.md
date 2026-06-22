@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kandula Krishna Chaitanya Reddy</h1>
-# 💫 About Me:
-🔭 I’m currently working on AI-powered security and web development projects<br>👯 I’m looking to collaborate on AI, Machine Learning, Full-Stack Development, and Open Source Projects<br>🤝 I’m looking for help with Advanced AI Security, Cloud Technologies, and System Design<br>🌱 I’m currently learning Generative AI, Machine Learning, React, Node.js, and Full-Stack Development<br>💬 Ask me about Python, Web Development, AI Security, Git, GitHub, and Problem Solving<br>⚡ Fun fact: I enjoy building projects that combine AI with real-world problem solving and continuously exploring new technologies.
+# 💫 About Me:<br>
+🔭 I’m currently working on AI-powered security and web development projects<br>👯 I’m looking to collaborate on AI, Machine Learning, Full-Stack Development, and Open Source Projects<br>🤝 I’m looking for help with Advanced AI Security, Cloud Technologies<br>🌱 I’m currently learning Generative AI, Machine Learning, React, Node.js, and Full-Stack Development<br>💬 Ask me about Python, Web Development, AI Security, Git, GitHub, and Problem Solving<br>⚡ Fun fact: I enjoy building projects that combine AI with real-world problem solving and continuously exploring new technologies.
 
 
 ## 🌐 Socials:
